@@ -18,7 +18,7 @@
         <section class="container mt-4">
             <div class="row p-1 bg-primary">
                 <div class="col-lg-6">
-                    <h2 class="text-white">Company Information</h2>
+                    <h2 class="text-white">Company All Information</h2>
                 </div>
             </div>
         </section>
